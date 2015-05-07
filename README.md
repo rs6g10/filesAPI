@@ -2,7 +2,7 @@ MongoGridFS-Express-Node (MEN)
 
 
 ## Before You Begin 
-Before you begin we recommend you read about the basic building blocks that assemble a MEAN.JS application: 
+Before you begin general recommendation is that you read about the basic building blocks that assemble a MEN application:
 * MongoDB - Go through [MongoDB Official Website](http://mongodb.org/) and proceed to their [Official Manual](http://docs.mongodb.org/manual/), which should help you understand NoSQL and MongoDB better. Read more about GridFS feature of Mongo on their [Official documentation](http://docs.mongodb.org/manual/core/gridfs/)
 * Express - The best way to understand express is through its [Official Website](http://expressjs.com/), particularly [The Express Guide](http://expressjs.com/guide.html); you can also go through this [StackOverflow Thread](http://stackoverflow.com/questions/8144214/learning-express-for-node-js) for more resources.
 * Node.js - Start by going through [Node.js Official Website](http://nodejs.org/) and this [StackOverflow Thread](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js), which should get you going with the Node.js platform in no time.
